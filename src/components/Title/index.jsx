@@ -3,8 +3,8 @@ import styles from "./styles";
 
 const Title = () => {
   return (
-    <View>
-      <Text style={styles.title1}>styles</Text>
+    <View style={styles.container}>
+      <Text style={styles.title1}>Home</Text>
     </View>
   );
 };
